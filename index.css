@@ -1,0 +1,37 @@
+.mainbody{
+    /* border: 2px solid black; */
+    height: 500px;
+    width: 600px;
+    display: flex;
+    background-color: bisque;
+}
+
+
+
+.img img{
+    height: 400px;
+    width: 300px;
+    /* border: 2px solid black; */
+    margin-top: 50px;
+}
+.quites{
+    margin-left: 25%;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 150px;
+    position: absolute;
+
+}
+.morning{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 50px;
+    z-index: 1;
+}
+.vl{
+    border-left: 2px solid green;
+    height: 90px;
+    margin-top: 350px;
+    margin-left: 120px;
+    
+}
